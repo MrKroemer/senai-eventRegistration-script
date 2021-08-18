@@ -1,4 +1,4 @@
-# senai-cadastroEvento-script
+# senai-eventRegistration-script
 
 Script de exercício cujo projeto tem por finalidade criar algoritmo para um sistema de cadastro de eventos. Para uma melhor experiência, adicionei pequenas interações
 para validar as condições propostas pelo exercício para realização do cadastro. Condições estas que incluem:
